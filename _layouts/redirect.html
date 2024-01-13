@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en-IN">
+<head>
+{% include title-seo.html %}
+</head>
+<script>
+const r=new Date;
+r.setDate((new Date).getDate()-1);
+window.location.href=`\/${r.toISOString().split("T")[0]}\/`;
+</script>
+</html>
