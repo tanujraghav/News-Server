@@ -25,3 +25,23 @@ PAGE STRUCTURE: default.html
 
 </html>
 ```
+
+---
+
+PAGE STRUCTURE: redirect.html
+---
+
+```html
+<!DOCTYPE html>
+<html lang="en-IN">
+
+<head>
+  /insert title-seo.html
+</head>
+
+<script>
+  // redirection logic
+</script>
+
+</html>
+```
